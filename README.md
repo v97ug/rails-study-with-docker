@@ -47,4 +47,5 @@ $ docker-compose up -d
 
 ## 参考
 
-https://qiita.com/reflet/items/efb624996f8876f8167e
+- https://qiita.com/reflet/items/efb624996f8876f8167e
+- https://docs.docker.com/compose/environment-variables/
